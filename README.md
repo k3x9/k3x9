@@ -9,7 +9,8 @@
 <p>Welcome to my GitHub profile! Here's a little bit about me:</p>
 
 <h2>🚀 About Me</h2>
-<ul>
+<img align='right' src="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif" alt="studying" width="36%"/>
+<ul style="list-style: none; padding: 0;">
     <li>🎓 Final year B.Tech student in AI & DS at IIT Jodhpur</li>
     <li>💻 Competitive Programmer</li>
     <li>👥 Coordinator of the Programming Society</li>
@@ -39,10 +40,10 @@
 <h2>📫 Contact</h2>
 <p>
     <br/>
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="5%"/> <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/adarsh-raj-shrivastava-830441249/">Adarsh Raj Shrivastava</a>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="2%"/> <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/adarsh-raj-shrivastava-830441249/">Adarsh Raj Shrivastava</a>
     <br/>
     <!-- https://res.cloudinary.com/codier/image/upload/w_384/iai0p5j9cuszzpqxdmws.gif -->
-    <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Website Icon" width="5%"/> <strong>Website/Blog</strong>: <a>Portfolio(In progress...)</a><img src="https://res.cloudinary.com/codier/image/upload/w_384/iai0p5j9cuszzpqxdmws.gif" width="4%"/>
+    <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Website Icon" width="2%"/> <strong>Website/Blog</strong>: <a>Portfolio(In progress...)</a><img src="https://res.cloudinary.com/codier/image/upload/w_384/iai0p5j9cuszzpqxdmws.gif" width="4%"/>
 </p>
 
 <p align="center">
