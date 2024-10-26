@@ -33,8 +33,8 @@
 
 <h2>🏆 Competitive Programming</h2>
 <ul>
-    <li><a href="https://codeforces.com/profile/qwerty0110">Codeforces<a>: <span style="color: darkblue;">Expert 1608</span></li>
-    <li><a href="https://www.codechef.com/users/k3x9">Codechef</a>: <span style="color: purple">4* 1838</li>
+    <li><a href="https://codeforces.com/profile/k3x9_">Codeforces<a>: <span style="color: darkblue;">Expert 1652</span></li>
+    <li><a href="https://www.codechef.com/users/k3x9">Codechef</a>: <span style="color: purple">4* 1976</li>
 </ul>
 
 <h2>📫 Contact</h2>
@@ -43,7 +43,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="2%"/> <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/adarsh-raj-shrivastava-830441249/">Adarsh Raj Shrivastava</a>
     <br/>
     <!-- https://res.cloudinary.com/codier/image/upload/w_384/iai0p5j9cuszzpqxdmws.gif -->
-    <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Website Icon" width="2%"/> <strong>Website/Blog</strong>: <a>Portfolio(In progress...)</a><img src="https://res.cloudinary.com/codier/image/upload/w_384/iai0p5j9cuszzpqxdmws.gif" width="4%"/>
+<!--     <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Website Icon" width="2%"/> <strong>Website/Blog</strong>: <a>Portfolio(In progress...)</a><img src="https://res.cloudinary.com/codier/image/upload/w_384/iai0p5j9cuszzpqxdmws.gif" width="4%"/> -->
 </p>
 
 <p align="center">
